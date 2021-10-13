@@ -1,0 +1,21 @@
+
+      #test {
+        font-size: 2em;
+        line-height: 50%;
+        
+        }
+      #img1{
+        width: 50%;
+        height: 50%;
+        
+
+      }
+      #parent{
+        width: 50%;
+        border-color: blue;
+        border-style:solid;
+        box-shadow: 15px 15px 10px blue ;
+        //border-block-end: rgb(20, 206, 144);
+        
+
+      }

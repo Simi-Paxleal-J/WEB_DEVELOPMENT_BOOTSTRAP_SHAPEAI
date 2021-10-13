@@ -1,0 +1,34 @@
+/* p{
+       font-size: 20px;
+       line-height: 4em;//relative to font size
+     }
+
+     #test
+     {
+       font-size: 2em;
+     }*/
+     .img1 {
+       width: 100px;
+       height: 100px;
+       margin-bottom: 20px;
+     }
+      .img2 {
+       width: 300px;
+       height: 300px;
+       padding-left: 30px;
+     }
+     .parent {
+       width: 35%;
+       border-style: double;
+       border-color:  rgb(202, 93, 20, 0.658);
+       box-shadow: 10px 10px 10px rgb(160, 159, 158);
+       margin-bottom: 25px;
+       margin-left: 25px;
+       padding-left: 35px;
+     }
+     h3{
+       font-size: 24px;
+       color: rgb(255, 128, 0, 0.918);
+       font-family: 'Lucida Console','Courier New', monospace;
+       margin-left: 25px;
+       }
